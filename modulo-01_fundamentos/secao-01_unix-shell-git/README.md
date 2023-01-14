@@ -1,4 +1,4 @@
-# Unix, Shell, Git e Github - 10/01/2023 - 13/01/2023
+# Unix, Shell, Git e Github 10/01/2023 - 13/01/2023
 
 ### Sobre o conteúdo
 
