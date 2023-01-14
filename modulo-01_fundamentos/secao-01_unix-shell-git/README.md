@@ -1,8 +1,9 @@
 # Unix, Shell, Git e Github 10/01/2023 - 13/01/2023
 
+:yellow_exclamation: Importante: Não existe pasta de exercícios criados nessa seção pois este repositório como todo é o resultado final dos exercícios práticos executados.
 ### Sobre o conteúdo
 
-A trybe passa uma boa base sobre o Unix e como funciona seu Kernel. O conteúdo foi suficiente para tomar gosto pelo terminal e instigar a personalizá-lo de acordo com minha preferência. Vários exercícios de manipulação de arquivos e uso do git/github ajudaram a fixar bem.
+A trybe passou uma boa base sobre o Unix e como funciona seu Kernel. O conteúdo foi suficiente para tomar gosto pelo terminal e instigar a personalizá-lo de acordo com minha preferência. Vários exercícios de manipulação de arquivos e uso do git/github ajudaram a fixar bem.
 
 O que me marcou: Git init, git clone, git pull, git push, git add, git commit, git merge, pull request, git log, manipulação de arquivos e comandos básicos no terminal.
 
@@ -28,4 +29,4 @@ Sinto que aprendi o suficiente de terminal, git e github para que qualquer dific
 
 * Deixei uma task no trello para aprender sobre MD e melhorar esses próximos documentos, a próxima seção já está melhor? _P.S.: quem sabe até essa já não esteja melhor rs_
 
-* Também deixei uma task para aprender usar o Notione e começar documentar todas as sintaxes aprendidas separadas por tecnologia/tópico. Já estou documentando tudo?
+* Também deixei uma task para aprender usar o Notion e começar documentar todas as sintaxes aprendidas separadas por tecnologia/tópico. Já estou documentando tudo?
