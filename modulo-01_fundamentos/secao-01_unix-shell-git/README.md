@@ -1,6 +1,6 @@
 # Unix, Shell, Git e Github 10/01/2023 - 13/01/2023
 
-:yellow_exclamation: Importante: Não existe pasta de exercícios criados nessa seção pois este repositório como todo é o resultado final dos exercícios práticos executados.
+:grey_exclamation: Importante: Não existe pasta de exercícios criados nessa seção pois este repositório como todo é o resultado final dos exercícios práticos executados.
 ### Sobre o conteúdo
 
 A trybe passou uma boa base sobre o Unix e como funciona seu Kernel. O conteúdo foi suficiente para tomar gosto pelo terminal e instigar a personalizá-lo de acordo com minha preferência. Vários exercícios de manipulação de arquivos e uso do git/github ajudaram a fixar bem.
