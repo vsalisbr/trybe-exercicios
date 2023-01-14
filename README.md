@@ -93,3 +93,12 @@ Seção 7: Higher Order Functions do JavaScript ES6 :hourglass_flowing_sand:
 - [ ] 7-5: _JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters_
 - [ ] 7-6: _Projeto Prático - Zoo functions_
 </details>
+
+## Front-end :hourglass_flowing_sand:
+
+## Back-end :hourglass_flowing_sand:
+
+## Ciência da Computação :hourglass_flowing_sand:
+
+
+
