@@ -1,3 +1,6 @@
+Fundamentos -> Unix, Shell e Git/Github 
+10/01/2023 - 13/01/2023
+
 O QUE A TRYBE ENSINOU?
 
 Nessa seção a Trybe passa o básico de uso de terminal, Git e Github.
@@ -6,7 +9,7 @@ O QUE EU APRENDI?
 
 -Fixei meu conhecimento prévio com uso de terminal aprendendo mais comandos, além de pesquisar por fora do conteúdo proposto para aprender personalizá-lo.
 
--Com os diversos testes executados se tornou natural para mim usar o terminal para navegar, criar e remover arquivos e pastas além de ter fixado melhor a lógica por trás dos comandos.
+-Com os diversos testes executados se tornou natural para mim usar o terminal para navegar, criar e remover arquivos/pastas além de ter fixado melhor a lógica por trás dos comandos.
 
 -Após os diversos testes executados me sinto mais confortável com o uso do ambiente Unix, tenho agora o sentimento que usar o Linux/Mac sem saber usar terminal é tentar dirigir um carro sem um volante.
 
