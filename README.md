@@ -33,7 +33,7 @@ Seção 2: Introdução à HTML & CSS :hourglass_flowing_sand:
 
 <details>
 <summary>
-Seção 3: Introdução à JavaScript
+Seção 3: Introdução à JavaScript :hourglass_flowing_sand:
 </summary>
 
 - [ ] 3-1: _Primeiros Passos_
@@ -46,7 +46,7 @@ Seção 3: Introdução à JavaScript
 
 <details>
 <summary>
-Seção 4: JavaScript: DOM, Eventos e Web Storage
+Seção 4: JavaScript: DOM, Eventos e Web Storage :hourglass_flowing_sand:
 </summary>
 
 - [ ] 4-1: _DOM e seletores_
@@ -59,7 +59,7 @@ Seção 4: JavaScript: DOM, Eventos e Web Storage
 
 <details>
 <summary>
-Seção 5: HTML e CSS: Forms, Flexbox e Responsivo
+Seção 5: HTML e CSS: Forms, Flexbox e Responsivo :hourglass_flowing_sand:
 </summary>
 
 - [ ] 5-1: _Forms_
@@ -72,7 +72,7 @@ Seção 5: HTML e CSS: Forms, Flexbox e Responsivo
 
 <details>
 <summary>
-Seção 6: Introdução à JavaScript ES6 e Testes Unitários
+Seção 6: Introdução à JavaScript ES6 e Testes Unitários :hourglass_flowing_sand:
 </summary>
 
 - [ ] 6-1: _Fluxo de exceções e manipulação de objetos_
@@ -83,7 +83,7 @@ Seção 6: Introdução à JavaScript ES6 e Testes Unitários
 
 <details>
 <summary>
-Seção 7: Higher Order Functions do JavaScript ES6
+Seção 7: Higher Order Functions do JavaScript ES6 :hourglass_flowing_sand:
 </summary>
 
 - [ ] 7-1: _Introdução a Higher Order Functions_
