@@ -26,3 +26,5 @@ UM RECADO PARA O FUTURO:
 Espero que de agora para frente absolutamente todo código esteja sendo salvo em um repositório rs.
 
 Deixei uma task no trello para aprender sobre MD e melhorar esses próximos documentos, a próxima seção já está melhor?
+
+P.S.: Também deixei uma task para aprender usar o Notione e começar documentar todas as sintaxes aprendidas separadas por tecnologia/tópico. Já estou documentando tudo?
