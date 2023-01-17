@@ -24,7 +24,7 @@ Seção 1: Introdução - Unix, Shell, Git/GitHub :white_check_mark:
 Seção 2: Introdução à HTML & CSS
 </summary>
 
-- [ ] 2-1: _Estruturas de Página_
+- [X] 2-1: _Estruturas de Página_
 - [ ] 2-2: _Primeiros Passos em CSS_
 - [ ] 2-3: _Seletores e Posicionamento_
 - [ ] 2-4: _HTML Semântico_
