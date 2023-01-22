@@ -21,19 +21,19 @@ Seção 1: Introdução - Unix, Shell, Git/GitHub :white_check_mark:
 
 <details>
 <summary>
-Seção 2: Introdução à HTML & CSS
+Seção 2: Introdução à HTML & CSS :white_check_mark:
 </summary>
 
 - [X] 2-1: _Estruturas de Página_
 - [X] 2-2: _Primeiros Passos em CSS_
-- [ ] 2-3: _Seletores e Posicionamento_
-- [ ] 2-4: _HTML Semântico_
-- [ ] 2-5: _Projeto Prático - Lessons Learned_
+- [X] 2-3: _Seletores e Posicionamento_
+- [X] 2-4: _HTML Semântico_
+- [X] 2-5: [_Projeto Prático - Lessons Learned_](https://github.com/vsalisbr/project-lessons-learned)
 </details>
 
 <details>
 <summary>
-Seção 3: Introdução à JavaScript :hourglass_flowing_sand:
+Seção 3: Introdução à JavaScript
 </summary>
 
 - [ ] 3-1: _Primeiros Passos_
