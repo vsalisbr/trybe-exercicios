@@ -36,7 +36,7 @@ Seção 2: Introdução à HTML & CSS :white_check_mark:
 Seção 3: Introdução à JavaScript
 </summary>
 
-- [ ] 3-1: _Primeiros Passos_
+- [X] 3-1: _Primeiros Passos_
 - [ ] 3-2: _Array e loop For_
 - [ ] 3-3: _Lógica de Programação e Algoritmos_
 - [ ] 3-4: _Objetos e funções_

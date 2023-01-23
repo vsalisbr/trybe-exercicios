@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: azure;
+}
+
+main {
+    margin: 20vh auto;
+    width: 450px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(188, 213, 213);
+}
+
+main h1 {
+    margin-bottom: 10px;
+}
+
+#botao {
+    margin-top: 10px;
+    width: 100%;
+    height: 35px;
+}
+
+#salarioBruto {
+    margin-top: 10px;
+    width: 100%;
+    height: 35px;
+}
+
+#subheader {
+    text-align: center;
+}
+
+#header-text {
+    text-align: center;
+}
