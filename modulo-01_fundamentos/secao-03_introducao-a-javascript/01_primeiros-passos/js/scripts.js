@@ -22,7 +22,7 @@ function finalizarCalculo(salarioLiquido){
 
 function isNumber(){
     const salarioBrutoDigitado = input.value;
-    return (!isNaN(parseFloat(salarioBrutoDigitado)) && isFinite(salarioBrutoDigitado));
+    return (!isNaN(parseFloat(salarioBrutoDigitado)) && isFinite(salarioBrutoDigitado) && salarioBrutoDigitado > 0);
 }
 
 function calculaSalarioLiquido(){
