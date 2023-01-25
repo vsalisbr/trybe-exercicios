@@ -62,6 +62,32 @@
             maiorPalavra = array[i];
         }
     }
-    
+
     console.log(menorPalavra,maiorPalavra);
+}
+
+{
+    //Um número primo é um número inteiro maior do que 1 que possui somente dois divisores, ou seja, é divisível por 1 e por ele mesmo. Sabendo disso, escreva um algoritmo que imprima no console o maior número primo entre 2 e 50. 
+    let numerosPrimos = [];
+
+    for (let i=2;i<=50;++i){
+        let numeroPrimo = true;
+        for(let y=2;y<i;++y){
+            if(i%y==0){
+                numeroPrimo = false;
+                continue;
+            }
+        }
+        if(numeroPrimo){
+            numerosPrimos.push(i);
+        }
+    }
+
+    let maiorNumero = numerosPrimos[0];
+    for (let i=0;i<numerosPrimos.length;++i){
+        if (numerosPrimos[i]>maiorNumero){
+            maiorNumero = numerosPrimos[i];
+        }
+    }
+    console.log(maiorNumero);
 }
