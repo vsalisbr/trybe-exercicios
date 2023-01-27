@@ -40,7 +40,7 @@ Seção 3: Introdução à JavaScript
 - [X] 3-2: _Array e loop For_
 - [ ] 3-3: _Lógica de Programação e Algoritmos_
 - [X] 3-4: _Objetos e funções_
-- [ ] 3-5: _JS ES6 - let, const, arrow functions e template literals_
+- [X] 3-5: _JS ES6 - let, const, arrow functions e template literals_
 - [ ] 3-6: _Projeto Prático - Playground Functions_
 </details>
 
