@@ -18,3 +18,15 @@ let food = ['hamburguer', 'bife', 'acarajé'];
 for (let value of food) {
   console.log(value);
 };
+
+{
+    let palavras = ["teste0", "teste1", "teste2", "teste3", "teste4", "teste5", "teste6"];
+    for (let i=0;i<palavras.length;++i){
+        if (i==5){
+            palavras[i]+='?';
+            continue;
+        }
+        palavras[i] +='!';
+    }
+    console.log(palavras);
+}
