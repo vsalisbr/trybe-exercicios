@@ -41,7 +41,7 @@ Seção 3: Introdução à JavaScript
 - [X] 3-3: _Lógica de Programação e Algoritmos_
 - [X] 3-4: _Objetos e funções_
 - [X] 3-5: _JS ES6 - let, const, arrow functions e template literals_
-- [ ] 3-6: _Projeto Prático - Playground Functions_
+- [X] 3-6: [_Projeto Prático - Playground Functions_](https://github.com/vsalisbr/project-playground-functions)
 </details>
 
 <details>
@@ -49,7 +49,7 @@ Seção 3: Introdução à JavaScript
 Seção 4: JavaScript: DOM, Eventos e Web Storage :hourglass_flowing_sand:
 </summary>
 
-- [ ] 4-1: _DOM e seletores_
+- [X] 4-1: _DOM e seletores_
 - [ ] 4-2: _Trabalhando com elementos_
 - [ ] 4-3: _Eventos_
 - [ ] 4-4: _Web Storage_
