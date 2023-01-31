@@ -33,7 +33,7 @@ Seção 2: Introdução à HTML & CSS :white_check_mark:
 
 <details>
 <summary>
-Seção 3: Introdução à JavaScript
+Seção 3: Introdução à JavaScript :white_check_mark:
 </summary>
 
 - [X] 3-1: _Primeiros Passos_
@@ -46,7 +46,7 @@ Seção 3: Introdução à JavaScript
 
 <details>
 <summary>
-Seção 4: JavaScript: DOM, Eventos e Web Storage :hourglass_flowing_sand:
+Seção 4: JavaScript: DOM, Eventos e Web Storage
 </summary>
 
 - [X] 4-1: _DOM e seletores_
