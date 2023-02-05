@@ -51,7 +51,7 @@ Seção 4: JavaScript: DOM, Eventos e Web Storage
 
 - [X] 4-1: _DOM e seletores_
 - [X] 4-2: _Trabalhando com elementos_
-- [ ] 4-3: _Eventos_
+- [X] 4-3: _Eventos_
 - [X] 4-4: _Web Storage_
 - [ ] 4-5: _Projeto Prático - Arte com Pixels_
 </details>
