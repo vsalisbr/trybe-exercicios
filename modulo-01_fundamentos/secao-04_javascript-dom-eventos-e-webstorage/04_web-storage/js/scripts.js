@@ -8,11 +8,11 @@ window.onload = () => {
 };
 
 let cfgObj = {
-  cfgVersion: 0.3,
+  cfgVersion: 0.4,
   backgroundColor: 'white',
   fontColor: 'black',
-  fontSize: '1pt',
-  lineSize: '1px',
+  fontSize: '10',
+  lineSize: '1',
   font: 'Arial',
 };
 
@@ -188,7 +188,7 @@ function setFontColor (event) {
 }
 
 function setFontSize (event) {
-  cfgObj.fontSize = event.target.textContent;
+  cfgObj.fontSize = parseInt(event.target.textContent);
   setCfg();
 }
 
@@ -218,6 +218,12 @@ function getCfg() {
 
 function applyCfg() {
   const body = document.getElementById('body');
+  const main = document.getElementById('main');
   body.style.backgroundColor = cfgObj.backgroundColor;
-  console.log(cfgObj);
+  for (key of main.children) {
+    key.style.color = cfgObj.fontColor;
+    key.style.fontSize = `${cfgObj.fontSize}pt`;
+    key.style.lineHeight = `${cfgObj.lineSize}`;
+    key.style.fontFamily = `${cfgObj.font}`;
+  }  
 }
