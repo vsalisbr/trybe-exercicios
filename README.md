@@ -46,7 +46,7 @@ Seção 3: Introdução à JavaScript :white_check_mark:
 
 <details>
 <summary>
-Seção 4: JavaScript: DOM, Eventos e Web Storage
+Seção 4: JavaScript: DOM, Eventos e Web Storage :white_check_mark:
 </summary>
 
 - [X] 4-1: _DOM e seletores_
@@ -58,10 +58,10 @@ Seção 4: JavaScript: DOM, Eventos e Web Storage
 
 <details>
 <summary>
-Seção 5: HTML e CSS: Forms, Flexbox e Responsivo :hourglass_flowing_sand:
+Seção 5: HTML e CSS: Forms, Flexbox e Responsivo
 </summary>
 
-- [ ] 5-1: _Forms_
+- [X] 5-1: _Forms_
 - [ ] 5-2: _Bibliotecas JavaScript e Frameworks CSS_
 - [ ] 5-3: _CSS Flexbox - Parte 1_
 - [ ] 5-4: _CSS Flexbox - Parte 2_
