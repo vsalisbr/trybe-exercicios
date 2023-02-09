@@ -53,7 +53,7 @@ Seção 4: JavaScript: DOM, Eventos e Web Storage :white_check_mark:
 - [X] 4-2: _Trabalhando com elementos_
 - [X] 4-3: _Eventos_
 - [X] 4-4: _Web Storage_
-- [X] 4-5: [_Projeto Prático Bônus - Pixels Art_](https://github.com/vsalisbr/project-pixels-art)
+- [X] 4-5: [_Projeto Prático - Pixels Art_](https://github.com/vsalisbr/project-pixels-art)
 - [X] 4-6: [_Projeto Prático Bônus - Carta Misteriosa_](#)
 - [X] 4-6: [_Projeto Prático Bônus - Meme Generator_](#)
 - [X] 4-6: [_Projeto Prático Bônus - Adivinhe a Cor_](#)
