@@ -78,7 +78,7 @@ Seção 5: HTML e CSS: Forms, Flexbox e Responsivo :pushpin:
 Seção 6: Introdução à JavaScript ES6 e Testes Unitários :hourglass_flowing_sand:
 </summary>
 
-- [ ] 6-1: _Fluxo de exceções e manipulação de objetos_
+- [X] 6-1: _Fluxo de exceções e manipulação de objetos_
 - [ ] 6-2: _Primeiros passos em Jest_
 - [ ] 6-3: _Matchers e cobertura de código_
 - [ ] 6-4: _Projeto Prático - JavaScript Testes Unitários_
