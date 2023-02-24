@@ -62,20 +62,20 @@ Seção 4: JavaScript: DOM, Eventos e Web Storage :white_check_mark:
 
 <details>
 <summary>
-Seção 5: HTML e CSS: Forms, Flexbox e Responsivo :pushpin:
+Seção 5: HTML e CSS: Forms, Flexbox e Responsivo :white_check_mark:
 </summary>
 
 - [X] 5-1: _Forms_
 - [X] 5-2: _Bibliotecas JavaScript e Frameworks CSS_
 - [X] 5-3: _CSS Flexbox - Parte 1_
 - [X] 5-4: _CSS Flexbox - Parte 2_
-- [ ] 5-5: _CSS Responsivo - Mobile First_
-- [ ] 5-6: _Projeto Prático - Trybewarts_
+- [X] 5-5: _CSS Responsivo - Mobile First_
+- [X] 5-6: [_Projeto Prático - Trybewarts_](https://github.com/vsalisbr/project-trybewarts)
 </details>
 
 <details>
 <summary>
-Seção 6: Introdução à JavaScript ES6 e Testes Unitários :hourglass_flowing_sand:
+Seção 6: Introdução à JavaScript ES6 e Testes Unitários :pushpin:
 </summary>
 
 - [X] 6-1: _Fluxo de exceções e manipulação de objetos_
