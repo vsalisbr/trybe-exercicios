@@ -79,7 +79,7 @@ Seção 6: Introdução à JavaScript ES6 e Testes Unitários :pushpin:
 </summary>
 
 - [X] 6-1: _Fluxo de exceções e manipulação de objetos_
-- [ ] 6-2: _Primeiros passos em Jest_
+- [X] 6-2: _Primeiros passos em Jest_
 - [ ] 6-3: _Matchers e cobertura de código_
 - [ ] 6-4: _Projeto Prático - JavaScript Testes Unitários_
 </details>
