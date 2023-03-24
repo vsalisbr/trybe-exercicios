@@ -75,13 +75,13 @@ Seção 5: HTML e CSS: Forms, Flexbox e Responsivo :white_check_mark:
 
 <details>
 <summary>
-Seção 6: Introdução à JavaScript ES6 e Testes Unitários :pushpin:
+Seção 6: Introdução à JavaScript ES6 e Testes Unitários :white_check_mark:
 </summary>
 
 - [X] 6-1: _Fluxo de exceções e manipulação de objetos_
 - [X] 6-2: _Primeiros passos em Jest_
-- [ ] 6-3: _Matchers e cobertura de código_
-- [ ] 6-4: _Projeto Prático - JavaScript Testes Unitários_
+- [X] 6-3: _Matchers e cobertura de código_
+- [X] 6-4: [_Projeto Prático - JavaScript Testes Unitários_](https://github.com/vsalisbr/project-js-unit-tests)
 </details>
 
 <details>
