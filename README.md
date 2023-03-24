@@ -198,7 +198,7 @@ Seção 9: Context API e React Hooks :hourglass_flowing_sand:
 Seção 10: Projeto App de Receitas :hourglass_flowing_sand:
 </summary>
 
-- [ ] 9-4: [_Projeto Prático - App de Receitas_](#)
+- [ ] 10-1: [_Projeto Prático - App de Receitas_](#)
 </details>
 
 
