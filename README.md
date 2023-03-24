@@ -6,7 +6,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web :pushpin:
+## Fundamentos do Desenvolvimento Web :white_check_mark:
 
 <details>
 <summary>
@@ -86,18 +86,18 @@ Seção 6: Introdução à JavaScript ES6 e Testes Unitários :white_check_mark:
 
 <details>
 <summary>
-Seção 7: Higher Order Functions do JavaScript ES6 :hourglass_flowing_sand:
+Seção 7: Higher Order Functions do JavaScript ES6 :white_check_mark:
 </summary>
 
-- [ ] 7-1: _Introdução a Higher Order Functions_
-- [ ] 7-2: _Higher Order Functions - sort e map_
-- [ ] 7-3: _Higher Order Functions - filter e reduce_
-- [ ] 7-4: _JavaScript ES6 - spread operator, rest parameters e object destructuring_
-- [ ] 7-5: _JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters_
-- [ ] 7-6: _Projeto Prático - Zoo functions_
+- [X] 7-1: _Introdução a Higher Order Functions_
+- [X] 7-2: _Higher Order Functions - sort e map_
+- [X] 7-3: _Higher Order Functions - filter e reduce_
+- [X] 7-4: _JavaScript ES6 - spread operator, rest parameters e object destructuring_
+- [X] 7-5: _JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters_
+- [X] 7-6: [_Projeto Prático - Zoo functions_](https://github.com/vsalisbr/project-zoo-functions)
 </details>
 
-## Front-end :hourglass_flowing_sand:
+## Front-end :pushpin:
 
 ## Back-end :hourglass_flowing_sand:
 
