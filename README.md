@@ -103,6 +103,12 @@ Seção 7: Higher Order Functions do JavaScript ES6 :white_check_mark:
 <summary>
 Seção 1: Introdução ao Frontend e JavaScript assíncrono :pushpin:
 </summary>
+
+- [ ] 1-1: _Ambiente de desenvolvimento_
+- [ ] 1-2: _JavaScript Assíncrono - Promises e fetch_
+- [ ] 1-3: [_Prática - Casa de câmbio_]()
+- [ ] 1-4: _Async, await e testes assíncronos_
+- [ ] 1-5: [_Projeto Prático - Carrinho de compras_](https://github.com/vsalisbr/project-shopping-cart)
 </details>
 
 <details>
