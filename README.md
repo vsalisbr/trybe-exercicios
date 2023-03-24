@@ -99,6 +99,67 @@ Seção 7: Higher Order Functions do JavaScript ES6 :white_check_mark:
 
 ## Front-end :pushpin:
 
+<details>
+<summary>
+Seção 1: Introdução ao Frontend e JavaScript assíncrono :pushpin:
+</summary>
+</details>
+
+<details>
+<summary>
+Seção 2: Introdução ao React :hourglass_flowing_sand:
+</summary>
+</details>
+
+<details>
+<summary>
+Seção 3: Componentes com Estado, Eventos e Formulários com React :hourglass_flowing_sand:
+</summary>
+</details>
+
+<details>
+<summary>
+Seção 4: Ciclo de Vida de Componentes e React Router :hourglass_flowing_sand:
+</summary>
+</details>
+
+<details>
+<summary>
+Seção 5: Metodologias Ágeis :hourglass_flowing_sand:
+</summary>
+</details>
+
+<details>
+<summary>
+Seção 6: Testes automatizados com React Testing Library :hourglass_flowing_sand:
+</summary>
+</details>
+
+<details>
+<summary>
+Seção 7: Gerenciamento de estado com Redux :hourglass_flowing_sand:
+</summary>
+</details>
+
+<details>
+<summary>
+Seção 8: Projeto Jogo de Trivia :hourglass_flowing_sand:
+</summary>
+</details>
+
+<details>
+<summary>
+Seção 9: Context API e React Hooks :hourglass_flowing_sand:
+</summary>
+</details>
+
+<details>
+<summary>
+Seção 10: Projeto App de Receitas :hourglass_flowing_sand:
+</summary>
+</details>
+
+
 ## Back-end :hourglass_flowing_sand:
 
 ## Ciência da Computação :hourglass_flowing_sand:
