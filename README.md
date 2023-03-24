@@ -115,54 +115,90 @@ Seção 1: Introdução ao Frontend e JavaScript assíncrono :pushpin:
 <summary>
 Seção 2: Introdução ao React :hourglass_flowing_sand:
 </summary>
+
+- [ ] 2-1: _'Hello, world!' no React_
+- [ ] 2-2: _Componentes React_
+- [ ] 2-3: [_Projeto Prático - Solar System_](#)
 </details>
 
 <details>
 <summary>
 Seção 3: Componentes com Estado, Eventos e Formulários com React :hourglass_flowing_sand:
 </summary>
+
+- [ ] 3-1: _Componentes com estado e eventos_
+- [ ] 3-2: _Formulários no React_
+- [ ] 3-3: [_Projeto Prático - Tryunfo_](#)
 </details>
 
 <details>
 <summary>
 Seção 4: Ciclo de Vida de Componentes e React Router :hourglass_flowing_sand:
 </summary>
+
+- [ ] 4-1: _Ciclo de vida de componentes_
+- [ ] 4-2: _React Router_
+- [ ] 4-3: [_Projeto Prático - TrybeTunes_](#)
 </details>
 
 <details>
 <summary>
 Seção 5: Metodologias Ágeis :hourglass_flowing_sand:
 </summary>
+
+- [ ] 5-1: _Metodologias Ágeis_
+- [ ] 5-1: [_Projeto Prático - Front-end Online Store_](#)
 </details>
 
 <details>
 <summary>
 Seção 6: Testes automatizados com React Testing Library :hourglass_flowing_sand:
 </summary>
+
+- [ ] 6-1: _RTL - Primeiros passos_
+- [ ] 6-2: _RTL - Mocks e Inputs_
+- [ ] 6-3: _RTL - Testando React Router_
+- [ ] 6-4: [_Projeto Prático - Testes em React_](#)
 </details>
 
 <details>
 <summary>
 Seção 7: Gerenciamento de estado com Redux :hourglass_flowing_sand:
 </summary>
+
+- [ ] 7-1: _Introdução ao Redux - O estado global da aplicação_
+- [ ] 7-2: _Usando o Redux no React_
+- [ ] 7-3: _Usando o Redux no React - Prática_
+- [ ] 7-4: _Usando o Redux no React - Actions Assíncronas_
+- [ ] 7-5: _Testes em React-Redux_
+- [ ] 7-6: [_Projeto Prático - Trybe Wallet_](#)
 </details>
 
 <details>
 <summary>
 Seção 8: Projeto Jogo de Trivia :hourglass_flowing_sand:
 </summary>
+
+- [ ] 8-1: [_Projeto Prático - Jogo de Trivia_](#)
 </details>
 
 <details>
 <summary>
 Seção 9: Context API e React Hooks :hourglass_flowing_sand:
 </summary>
+
+- [ ] 9-1: _React Hooks - useState e useEffect_
+- [ ] 9-2: _Context API_
+- [ ] 9-3: _Custom Hooks_
+- [ ] 9-4: [_Projeto Prático - StarWars Datatable com Context API e Hooks_](#)
 </details>
 
 <details>
 <summary>
 Seção 10: Projeto App de Receitas :hourglass_flowing_sand:
 </summary>
+
+- [ ] 9-4: [_Projeto Prático - App de Receitas_](#)
 </details>
 
 
