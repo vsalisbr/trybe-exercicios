@@ -101,19 +101,19 @@ Seção 7: Higher Order Functions do JavaScript ES6 :white_check_mark:
 
 <details>
 <summary>
-Seção 1: Introdução ao Frontend e JavaScript assíncrono :pushpin:
+Seção 1: Introdução ao Frontend e JavaScript assíncrono :white_check_mark:
 </summary>
 
 - [X] 1-1: _Ambiente de desenvolvimento_
 - [X] 1-2: _JavaScript Assíncrono - Promises e fetch_
 - [X] 1-3: [_Prática - Casa de câmbio_](https://github.com/vsalisbr/exercise-casa-de-cambio)
-- [ ] 1-4: _Async, await e testes assíncronos_
+- [X] 1-4: _Async, await e testes assíncronos_
 - [X] 1-5: [_Projeto Prático - Carrinho de compras_](https://github.com/vsalisbr/project-shopping-cart)
 </details>
 
 <details>
 <summary>
-Seção 2: Introdução ao React :hourglass_flowing_sand:
+Seção 2: Introdução ao React :pushpin:
 </summary>
 
 - [ ] 2-1: _'Hello, world!' no React_
